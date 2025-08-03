@@ -1,0 +1,13 @@
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\bin\Debug\GAME OOP.exe.config
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\bin\Debug\GAME OOP.exe
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\bin\Debug\GAME OOP.pdb
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\bin\Debug\EZInput.dll
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\bin\Debug\EZInput.xml
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME OOP.csproj.AssemblyReference.cache
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME_OOP.GameForm.resources
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME_OOP.Properties.Resources.resources
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME OOP.csproj.GenerateResource.cache
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME OOP.csproj.CoreCompileInputs.cache
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME OOP.csproj.Up2Date
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME OOP.exe
+D:\UET ALL DATA\OOP\GAME OOP\GAME OOP\obj\Debug\GAME OOP.pdb
